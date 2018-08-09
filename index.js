@@ -1,4 +1,5 @@
-a = 1
-b = 2
-function Additionally() {a + b
-return result}
+var number1 = 2
+var number2 = 3
+
+function add() {number1 + number2
+return results}
